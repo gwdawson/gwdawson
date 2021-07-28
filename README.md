@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-    <a href="#"><img src="https://i.pinimg.com/originals/03/90/87/0390875f53ed9ffc687223b15780e6b4.gif" height="300"/></a>
+    <a href="#"><img src="https://i.pinimg.com/originals/03/90/87/0390875f53ed9ffc687223b15780e6b4.gif" width="100%"/></a>
 </p>
