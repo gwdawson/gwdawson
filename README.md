@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gwdawson&bg_color=000000&border_color=fe019a&border_radius=1&title_color=fe019a&icon_color=fe019a&text_color=FFFFFF&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" height="141px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gwdawson&bg_color=000000&border_color=fe019a&border_radius=1&title_color=fe019a&icon_color=fe019a&text_color=FFFFFF&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" height="120px"/>
 </p>
