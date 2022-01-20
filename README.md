@@ -1,15 +1,25 @@
-<p align="center">
-    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p><hr>
+<div align="center">
+  <hr>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <hr>
+  <h1>Hi, I'm Gareth Dawson</h1>
+  <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec eros faucibus posuere at consectetur diam. Nam nulla lorem, eleifend ac vestibulum egestas, luctus vel massa. In efficitur euismod bibendum. Sed tempor tortor at enim consequat porttitor. Mauris rhoncus nibh leo. Integer sed bibendum eros. Nulla at nibh augue. Quisque nec ante at sem placerat varius. Ut cursus tortor ut tincidunt posuere. Nam non quam tortor. Suspendisse potenti. Integer quis commodo neque, non venenatis nibh. Aenean id lectus non purus tempor hendrerit non quis lectus. Aliquam vestibulum metus sit amet ultrices accumsan. Phasellus sollicitudin iaculis erat. Vivamus in sollicitudin. Nullam eget augue viverra, varius diam non, consectetur nisi. Sed id semper enim.</em>
+</div>
+<hr>
 
-<h1 align="center">
-    Hi, I'm Gareth Dawson
-</h1>
+- 🔭 I’m currently working on **codewars-kata-solutions**
 
-<p align="center">
-    <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec eros faucibus posuere at consectetur diam. Nam nulla lorem, eleifend ac vestibulum egestas, luctus vel massa. In efficitur euismod bibendum. Sed tempor tortor at enim consequat porttitor. Mauris rhoncus nibh leo. Integer sed bibendum eros. Nulla at nibh augue. Quisque nec ante at sem placerat varius. Ut cursus tortor ut tincidunt posuere. Nam non quam tortor. Suspendisse potenti. Integer quis commodo neque, non venenatis nibh. Aenean id lectus non purus tempor hendrerit non quis lectus. Aliquam vestibulum metus sit amet ultrices accumsan. Phasellus sollicitudin iaculis erat. Vivamus in sollicitudin.</em><br>
-</p><hr>
+- 🌱 I’m currently learning: **javascript**
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gwdawson&bg_color=000000&border_color=fe019a&border_radius=1&title_color=fe019a&icon_color=fe019a&text_color=FFFFFF&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="120px"/>
-</p><hr>
+- 👯 I’m looking to collaborate on **...**
+
+- 🤝 I’m looking for help with **...**
+
+- ⚡ Fun fact **...**
+
+<hr>
+<div align="center">
+  <h3>Languages and Tools</h3>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</div>
+<hr>
