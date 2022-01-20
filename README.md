@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gwdawson.work<span>@</span>gmail.com**
 
-- ⚡ Fun fact **...**
+- ⚡ Fun fact **Earth's atmosphere is primarily composed of nitrogen (78%)**
 
 <hr>
 <div align="center">
