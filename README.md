@@ -15,6 +15,8 @@
 
 - 🤝 I’m looking for help with **...**
 
+- 📫 How to reach me **gwdawson.work<span>@</span>gmail.com**
+
 - ⚡ Fun fact **...**
 
 <hr>
