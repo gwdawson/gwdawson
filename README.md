@@ -7,17 +7,17 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on **codewars-kata-solutions**
+- 🔭 I’m currently working on: **codewars-kata-solutions**
 
 - 🌱 I’m currently learning: **javascript**
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking to collaborate on: **...**
 
-- 🤝 I’m looking for help with **...**
+- 🤝 I’m looking for help with: **...**
 
-- 📫 How to reach me **gwdawson.work<span>@</span>gmail.com**
+- 📫 How to reach me: **gwdawson.work<span>@</span>gmail.com**
 
-- ⚡ Fun fact **Earth's atmosphere is primarily composed of nitrogen (78%)**
+- ⚡ Fun fact: **The Earth's atmosphere is primarily composed of nitrogen (78%)**
 
 <hr>
 <div align="center">
