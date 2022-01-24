@@ -21,7 +21,7 @@
 
 <div align="center">
   <hr>
-  <a> <img src="https://github-readme-streak-stats.herokuapp.com?user=gwdawson&date_format=M%20j%5B%2C%20Y%5D&background=0E1117&stroke=30363C&ring=30363C&border=30363C&fire=30363C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C8D1D9&sideLabels=C8D1D9&dates=C8D1D9" height="175"/> </a>
+  <a> <img src="https://github-readme-streak-stats.herokuapp.com?user=gwdawson&date_format=M%20j%5B%2C%20Y%5D&background=0E1117&stroke=30363C&ring=30363C&border=30363C&fire=30363C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C8D1D9&sideLabels=C8D1D9&dates=C8D1D9" height="155"/> </a>
   <hr>
   <a> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"/> </a>
   <a> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/> </a>
