@@ -21,12 +21,11 @@
 
 <div align="center">
   <hr>
-<!--   <a> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/> </a> -->
+  <a> <img src="https://github-readme-streak-stats.herokuapp.com?user=gwdawson&date_format=M%20j%5B%2C%20Y%5D&background=0E1117&stroke=30363C&ring=30363C&border=30363C&fire=30363C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C8D1D9&sideLabels=C8D1D9&dates=C8D1D9" height="175"/> </a>
+  <hr>
   <a> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"/> </a>
   <a> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/> </a>
   <a> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30"/> </a>
   <a> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30"/> </a>
   <hr>
-  <a> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30"/> </a>
-  <a> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" height="30"/> </a>
 </div>
