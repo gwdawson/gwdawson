@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec 
 
 <!-- Spotify Recently Played -->
 <div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=312opanebhguj6sjfop3yz4fkzyu&width=1000"/>
+<a href="https://open.spotify.com/user/312opanebhguj6sjfop3yz4fkzyu" target="_blank"><img src="https://spotify-recently-played-readme.vercel.app/api?user=312opanebhguj6sjfop3yz4fkzyu&width=1000" /></a>
 </div>
 <hr>
 
