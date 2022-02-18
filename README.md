@@ -26,13 +26,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec 
 </div>
 <hr>
 
-<!-- Spotify Recently Played -->
-<div align="center">
-<a href="https://open.spotify.com/user/312opanebhguj6sjfop3yz4fkzyu" target="_blank"><img src="https://spotify-recently-played-readme.vercel.app/api?user=312opanebhguj6sjfop3yz4fkzyu&width=1000" /></a>
-</div>
-<hr>
-
 <!--
+https://spotify-recently-played-readme.vercel.app/api?user=312opanebhguj6sjfop3yz4fkzyu&width=1000
+
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 https://github-readme-stats.vercel.app/api?username=gwdawson&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_color=30363C&text_color=C8D1D9&icon_color=30363C&title_color=30363C&bg_color=0E1117&cache_seconds=1800
