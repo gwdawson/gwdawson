@@ -50,11 +50,6 @@ Gareth.AddInterest('Languages')
 Gareth.AddInterest('Kpop')
 ```
 
-<!-- Image -->
-<!-- <a href="https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0">
-<img src="./public/itzy.jpg" />
-</a> -->
-
 <!-- Tools and Technologies -->
 <hr>
 <div align="center">
