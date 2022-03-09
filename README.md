@@ -26,10 +26,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec 
 </p>
 </div>
 
+<!-- Code About Me -->
+```javascript
+class CreateHuman {
+  constructor(firstName, lastName, age) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.age = age
+    this.interests = []
+  }
+  
+  AddInterest(interest) {
+    this.interests.push(interest)
+  }
+  
+  RemoveInterest(interest) {
+    this.interests.splice(this.interests.indexOf(interest), 1)
+  }
+}
+
+const Gareth = new CreateHuman('Gareth', 'Dawson', 20)
+```
+
 <!-- Image -->
-<a href="https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0">
+<!-- <a href="https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0">
 <img src="./public/itzy.jpg" />
-</a>
+</a> -->
 
 <!-- Tools and Technologies -->
 <hr>
