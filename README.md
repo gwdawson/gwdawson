@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec 
 
 <!-- Tools and Technologies -->
 <hr>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25 />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=25 />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=25 />
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height=25 />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=25 />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height=25 />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height=25 />
+<!-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height=25 /> -->
 </div>
 
 <!-- Footer -->
