@@ -46,6 +46,8 @@ class CreateHuman {
 }
 
 const Gareth = new CreateHuman('Gareth', 'Dawson', 20)
+Gareth.AddInterest('Languages')
+Gareth.AddInterest('Kpop')
 ```
 
 <!-- Image -->
