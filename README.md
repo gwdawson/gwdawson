@@ -38,6 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec 
 
 <!-- Twice Image -->
 <div align="center">
+<a href="https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0" target="_blank">
 <img src="./public/twice.png" />
+</a>
 </div>
 <hr>
