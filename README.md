@@ -32,22 +32,22 @@ class CreateHuman {
   constructor(firstName, lastName, age) {
     this.firstName = firstName;
     this.lastName = lastName;
-    this.age = age
-    this.interests = []
+    this.age = age;
+    this.interests = [];
   }
-  
+
   AddInterest(interest) {
-    this.interests.push(interest)
+    this.interests.push(interest);
   }
-  
+
   RemoveInterest(interest) {
-    this.interests.splice(this.interests.indexOf(interest), 1)
+    this.interests.splice(this.interests.indexOf(interest), 1);
   }
 }
 
-const Gareth = new CreateHuman('Gareth', 'Dawson', 20)
-Gareth.AddInterest('Languages')
-Gareth.AddInterest('Kpop')
+const Gareth = new CreateHuman('Gareth', 'Dawson', 20);
+Gareth.AddInterest('Languages');
+Gareth.AddInterest('Kpop');
 ```
 
 <!-- Tools and Technologies -->
