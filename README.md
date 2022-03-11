@@ -50,6 +50,9 @@ Gareth.AddInterest('Languages');
 Gareth.AddInterest('Kpop');
 ```
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Tools and Technologies -->
 <hr>
 <div align="center">
