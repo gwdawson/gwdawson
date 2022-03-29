@@ -1,27 +1,18 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:ec7aca,100:df25f6&height=120" width=100% />
 
-<!-- Name -->
+<!-- Typing SVG -->
 <div align="center">
 <h1>
-Hello, My name is Gareth!
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=32&duration=7500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+My+name+is+Gareth!;Junior+Full+Stack+Developer." />
 </h1>
-</div>
-
-<!-- English About Me -->
-<div align="center">
-<p>
-<em>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere ante nec eros faucibus posuere at consectetur diam. Nam nulla lorem, eleifend ac vestibulum egestas, luctus vel massa. In efficitur euismod bibendum. Sed tempor tortor at enim consequat porttitor. Mauris rhoncus nibh leo. Integer sed bibendum eros. Nulla at nibh augue. Quisque nec ante at sem placerat varius. Ut cursus tortor ut tincidunt posuere. Nam non quam tortor. Suspendisse potenti. Integer quis commodo neque, non venenatis nibh. Aenean id lectus non purus tempor hendrerit non quis lectus. Aliquam vestibulum metus sit amet ultrices accumsan. Phasellus sollicitudin iaculis erat Vivamus in sollicitudin. Nullam eget augue viverra, varius diam non, consectetur nisi. Sed id semper enim.
-</em>
-</p>
 </div>
 
 <!-- Korean About Me -->
 <div align="center">
 <p>
 <em>
-안녕하세요 나는 한국어를 배운다! 아름다우냐?않는 인류의 돋고. 피어나는 착목한는 이것이야말로 사랑의 쓸쓸하랴? 가치를 그것을 놀이 싸인 무엇이 이것이다. 트고. 그들은 동산에는 봄바람이다, 장식하는 두손을 실현에 부패를 수 때문이다, 시들어 있는 바로 사라지지 평화스러운 보라. 칼이다. 인생에 방황하여도. 몸이 품으며. 없으면 살았으며. 찾아다녀도. 거친 방황하여도. 군영과 끝에 철환하였는가 공자는 별과 들어 쓸쓸하랴? 그들에게 있는 길지 피가 새가 갑 우리 것이다. 방황하였으며. 얼음이 동력은 석가는 용감하고 위하여 피고 이것이다. 주는 보이는 우리 그들에게 황금시대다.
+안녕하세요 나는 한국어를 배운다! <br> 그들에게 생명을 불어넣는 것은 따뜻한 봄바람이다. 풀밭에 속잎 나고, 가지에 싹이 트고, 꽃 피고 새 우는 봄날의 천지는 얼마나 기쁘며, 얼마나 아름다우냐? 이것을 얼음 속에서 불러내는 것이 따뜻한 봄바람이다. 인생에 따뜻한 봄바람을 불어 보내는 것은 청춘의 끓는 피다. 청춘의 피가 뜨거운지라, 인간의 동산에는 사랑의 풀이 돋고, 이상(理想)의 꽃이 피고, 희망(希望)의 놀고 뜨고, 열락(悅樂)의 새가 운다. 사랑의 풀이 없으면 인간은 사막이다. 오아시스도 없는 사막이다. 보이는 끝까지 찾아다녀도, 목숨이 있는 때까지 방황하여도, 보이는 것은 거친 모래뿐일 것이다. 이상의 꽃이 없으면, 쓸쓸한 인간에 남는 것은 영락(零落)과 부패(腐敗) 뿐이다. 낙원을 장식하는 천자만홍(千紫萬紅)이 어디 있으며, 인생을 풍부하게 하는 온갖 과실이 어디 있으랴? 이상! 우리의 청춘이 가장 많이 품고 있는 이상! 이것이야말로 무한한 가치를 가진 것이다. 사람은 크고 작고 간에 이상이 있음으로써 용감하고 굳세게 살 수 있는 것이다.
 </em>
 </p>
 </div>
@@ -46,8 +37,7 @@ class CreateHuman {
 }
 
 const Gareth = new CreateHuman('Gareth', 'Dawson', 20);
-Gareth.AddInterest('Languages');
-Gareth.AddInterest('Kpop');
+Gareth.AddInterest(null);
 ```
 
 <!-- Tools and Technologies -->
