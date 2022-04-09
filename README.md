@@ -1,14 +1,11 @@
-<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:ec7aca,100:df25f6&height=120" width=100% />
 
-<!-- Typing SVG -->
 <div align="center">
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=&size=32&duration=7500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+My+name+is+Gareth!;Junior+Full+Stack+Developer." />
 </h1>
 </div>
 
-<!-- Korean About Me -->
 <div align="center">
 <p>
 <em>
@@ -17,10 +14,6 @@
 </p>
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- Code About Me -->
 ```javascript
 class CreateHuman {
   constructor(firstName, lastName, age) {
@@ -43,7 +36,6 @@ const Gareth = new CreateHuman('Gareth', 'Dawson', 20);
 Gareth.AddInterest(null);
 ```
 
-<!-- Tools and Technologies -->
 <hr>
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25 />
@@ -54,5 +46,4 @@ Gareth.AddInterest(null);
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height=25 />
 </div>
 
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:ec7aca,100:df25f6&height=120" width=100% />
