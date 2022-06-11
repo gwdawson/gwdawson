@@ -7,6 +7,9 @@ DEC 17 | Joined GitHub
        | created scripts to make my day-to-day life easier
        | playing with different languages and libraries
        |
+SEP 20 | Fell In Love With Programming
+       | created my first ever discord bot
+       |
 FEB 22 | Northcoders Bootcamp
        | introduction to javascript
        | be with node, express, postgres, jest
