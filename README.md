@@ -32,11 +32,11 @@ JUN 22 | Searching for a job as a Software Developer
 
 <div align="center">
 <div>
-<img src="./assets/open-source-computer-science.png" width=350 />
-<img src="./assets/northcoders-coding-bootcamp.png" width=350 />
+<img src="./assets/open-source-computer-science.png" width=420 />
+<img src="./assets/northcoders-coding-bootcamp.png" width=420 />
 </div>
 <div>
-<img src="./assets/northcoders-news-frontend.png" width=350 />
-<img src="./assets/northcoders-news-api.png" width=350 />
+<img src="./assets/northcoders-news-frontend.png" width=420 />
+<img src="./assets/northcoders-news-api.png" width=420 />
 </div>
 </div>
