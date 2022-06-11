@@ -20,6 +20,7 @@ JUN 22 | Searching for a job as a Software Developer
 ```
 
 <div align="left">
+       
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25 />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=25 />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height=25 />
@@ -32,11 +33,11 @@ JUN 22 | Searching for a job as a Software Developer
 
 <div align="center">
 <div>
-<img src="./assets/open-source-computer-science.png" width=420 />
-<img src="./assets/northcoders-coding-bootcamp.png" width=420 />
+<a href="https://github.com/gwdawson/open-source-computer-science"><img src="./assets/open-source-computer-science.png" width=420 /></a>
+<a href="https://github.com/gwdawson/northcoders-coding-bootcamp"><img src="./assets/northcoders-coding-bootcamp.png" width=420 /></a>
 </div>
 <div>
-<img src="./assets/northcoders-news-frontend.png" width=420 />
-<img src="./assets/northcoders-news-api.png" width=420 />
+<a href="https://github.com/gwdawson/northcoders-news-frontend"><img src="./assets/northcoders-news-frontend.png" width=420 /></a>
+<a href="https://github.com/gwdawson/northcoders-news-api"><img src="./assets/northcoders-news-api.png" width=420 /></a>
 </div>
 </div>
