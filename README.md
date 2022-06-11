@@ -5,7 +5,7 @@ Hello! My name is Gareth!
 
 DEC 17 | Joined GitHub
        | created scripts to make my day-to-day life easier
-       | playing with different languages and libraries
+       | played with a few different languages and libraries
        |
 SEP 20 | Fell In Love With Programming
        | created my first ever discord bot
