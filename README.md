@@ -38,7 +38,11 @@ JUN 22 | Searching for a job as a Software Developer
 
 <div align="center">
 <div>
-<a href="https://github.com/gwdawson/open-source-computer-science"><img src="./assets/open-source-computer-science.png" width=420 /></a>
-<a href="https://github.com/gwdawson/northcoders-coding-bootcamp"><img src="./assets/northcoders-coding-bootcamp.png" width=420 /></a>
+<a href="https://github.com/gwdawson/northcoders-coding-bootcamp"><img src="./assets/ncb.png" width=420 /></a>
+<a href="https://github.com/gwdawson/open-source-computer-science"><img src="./assets/oscs.png" width=420 /></a>
+<a href="https://github.com/gwdawson/northcoders-news-frontend"><img src="./assets/nfp.png" width=420 /></a>
+<a href="https://github.com/gwdawson/northcoders-news-backend"><img src="./assets/nbp.png" width=420 /></a>
+<a href="https://github.com/prescription-prompt/official-final-project-frontend"><img src="./assets/ppf.png" width=420 /></a>
+<a href="https://github.com/prescription-prompt/official-final-project-backend"><img src="./assets/ppb.png" width=420 /></a>
 </div>
 </div>
