@@ -4,16 +4,16 @@
 DEC 2017 | Joined GitHub
          |
          |
-DEC 2020 | Harvard's CS50x Introduction To Computer Science
+DEC 2020 | Harvard's CS50x Introduction to Computer Science
          |
          |
 JUL 2021 | Completed FCC Responsive Web Design 
          | 
          |
-FEB 2022 | Northcoders 13-Week Coding Bootcamp
+FEB 2022 | Northcoders Full-Stack Programming Bootcamp
          |
          |
-MAY 2022 | CodeVerse Python Bootcamp
+MAY 2022 | CodeVerse Python Programming Bootcamp
          |
          |
 JUN 2022 | Job Search...
