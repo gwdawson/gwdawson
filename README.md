@@ -1,48 +1,20 @@
 <h2 align="center">What are you doing here?</h2>
 
 ```
-Hello! My name is Gareth!
-
-DEC 17 | Joined GitHub
-       | created scripts to make my day-to-day life easier
-       | played with a few different languages and libraries
-       |
-SEP 20 | Fell In Love With Programming
-       | created my first ever discord bot
-       |
-FEB 22 | Northcoders Bootcamp
-       | introduction to javascript
-       | be with node, express, postgres, jest
-       | fe with html, css, react
-       |
-MAY 22 | CodeVerse Bootcamp
-       | programming in python
-       |
-JUN 22 | Searching for a job as a Software Developer
-       | (project) card-game-v2
+DEC 2017 | Joined GitHub
+         |
+         |
+DEC 2020 | Harvard's CS50x Introduction To Computer Science
+         |
+         |
+JUL 2021 | Completed FCC Responsive Web Design 
+         | 
+         |
+FEB 2022 | Northcoders 13-Week Coding Bootcamp
+         |
+         |
+MAY 2022 | CodeVerse Python Bootcamp
+         |
+         |
+JUN 2022 | Job Search...
 ```
-
-<div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=25 />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=25 />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25 />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=25 />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=25 />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height=25 />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=25 />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25 />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height=25 />
-</div>
-
-<h1></h1>
-
-<div align="center">
-<div>
-<a href="https://github.com/gwdawson/northcoders-coding-bootcamp"><img src="./assets/ncb.png" width=420 /></a>
-<a href="https://github.com/gwdawson/open-source-computer-science"><img src="./assets/oscs.png" width=420 /></a>
-<a href="https://github.com/gwdawson/northcoders-news-frontend"><img src="./assets/nfp.png" width=420 /></a>
-<a href="https://github.com/gwdawson/northcoders-news-backend"><img src="./assets/nbp.png" width=420 /></a>
-<a href="https://github.com/prescription-prompt/official-final-project-frontend"><img src="./assets/ppf.png" width=420 /></a>
-<a href="https://github.com/prescription-prompt/official-final-project-backend"><img src="./assets/ppb.png" width=420 /></a>
-</div>
-</div>
