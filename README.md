@@ -18,4 +18,4 @@ MAY 2022 | CodeVerse Python Programming Bootcamp
          |
 JUN 2022 | Job Search...
 ```
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=gwdawson&style=flat-square)
